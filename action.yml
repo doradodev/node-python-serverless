@@ -1,0 +1,5 @@
+name: "serverless-python-node"
+description: "serverless config"
+runs:
+  using: "docker"
+  image: "Dockerfile"
